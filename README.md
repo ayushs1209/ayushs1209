@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GEN-AI**
 
-- 👨‍💻 All of my projects are available at [https://ayushsus.netlify.app/](https://ayushsus.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ayushsus.netlify.app/](https://ayushsus.vercel.app/)
 
 - 📫 How to reach me **ayushsus1209@gmail.com**
 
